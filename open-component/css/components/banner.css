@@ -1,0 +1,24 @@
+.banner {
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  height: 150px;}
+
+.banner h1 {
+  color: white;
+  font-size: 42px;
+  text-shadow: 8px 8px 8px black;
+  display: flex;
+  justify-content: space-evenly;
+  letter-spacing: 40px ;
+  text-decoration: overline;
+}
+
+.title2 {
+  color: white;
+  font-size: 42px;
+  text-shadow: 4px 8px 15px black;
+  text-align: right;
+}

@@ -1,0 +1,17 @@
+.footer {
+  align-items: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  height: 150px;}
+
+  .footer h1 {
+    color: white;
+    font-size: 18px;
+    text-shadow: 8px 8px 8px rgba(54, 54, 54, 0.823);
+    display: flex;
+    justify-content: space-evenly;
+    letter-spacing: 20px ;
+    text-decoration: overline;
+  }

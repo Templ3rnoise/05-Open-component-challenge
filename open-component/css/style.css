@@ -1,0 +1,36 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700");
+@import url("https://use.fontawesome.com/releases/v6.1.2/css/all.css");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@600&family=Titillium+Web:wght@200&display=swap');
+
+/* Components */
+/* @import url("components/name_of_component.css"); */
+@import url("components/banner.css");
+@import url("components/cards.css");
+@import url("components/container.css");
+@import url("components/videos.css");
+@import url("components/footer.css");
+@import url("components/button.css");
+
+
+body {
+  margin: 0;
+  margin-bottom: 100px;
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  background-image: linear-gradient(black,rgb(11, 11, 11));
+}
+.text-center {
+  text-align: center;
+}
+.container {
+  max-width: 900px;
+  margin: 50px auto;
+}
+
+h2 {color: white;
+  font-family: 'Bebas Neue', sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    letter-spacing: 10px ;
+  }

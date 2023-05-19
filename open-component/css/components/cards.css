@@ -1,0 +1,33 @@
+.card-left {display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 15px;
+  height: 400px;
+}
+
+.card-left img {height: 100%;}
+
+.card-right {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  padding: 15px;
+  height: 400px;
+}
+
+.card-right img {height: 100%;}
+
+.text-middle h1 {
+  color: white;
+  font-family: 'Bebas Neue', sans-serif;
+  display: flex;
+  justify-content: space-evenly;
+  letter-spacing: 5px;
+}
+
+.text-middle p {
+  font-family: 'Titillium Web', sans-serif;
+color: white;
+text-align: center;
+}
+
